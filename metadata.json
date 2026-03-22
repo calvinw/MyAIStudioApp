@@ -1,0 +1,5 @@
+{
+  "name": "ProTasker",
+  "description": "A professional-grade Todo application with task categorization, priority levels, and real-time synchronization.",
+  "requestFramePermissions": []
+}
